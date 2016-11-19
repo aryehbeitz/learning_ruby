@@ -1,5 +1,9 @@
 "# some_test" 
 
+<<<<<<< HEAD
 aAnother line
+=======
+anotheAr line
+>>>>>>> 435fcff046eda22c437b4c945a3fdea82ba19e41
 
 hey there
